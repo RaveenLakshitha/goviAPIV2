@@ -1,0 +1,523 @@
+[
+    {
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                5.932762016360728, 80.59325937897619
+            ]
+        },
+        "_id": "631075015585ed47f951e2e2",
+        "shopName": "Niro flowers",
+        "imageUrls": [],
+        "publicIds": [],
+        "shopCategories": [],
+        "contactNumber": "345623111",
+        "email": "niro@gmail.com",
+        "address": "NO78,Kumaragama,Dondra",
+        "delivery": "Available",
+        "city": "Dondra",
+        "user": "631058a25585ed47f951e2c8",
+        "shopReviews": [],
+        "shopRatings": [],
+        "rating": 0,
+        "raters": [],
+        "shopItems": [],
+        "ordersId": [],
+        "updatedDate": "2022-09-01T06:54:16.000Z",
+        "shopVisibility": "Active",
+        "profilePic": [
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662189567/goviMedia/SHops/Niro/images_y4wqud.jpg"
+              
+            }
+        ],
+        "shopPictures": [
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662189566/goviMedia/SHops/Niro/images_3_ksam05.jpg"
+                
+            },
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662189566/goviMedia/SHops/Niro/images_2_gjga9o.jpg"
+             
+            },
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662189566/goviMedia/SHops/Niro/images_1_slyzrs.jpg"
+             
+            }
+        ],
+        "proofDocs": [
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662189906/goviMedia/SHops/Certificates/main-img_ukliqw.jpg"
+                
+            }
+        ],
+        "createdAt": "2020-09-01T09:01:53.523Z",
+        "updatedAt": "2022-09-01T09:01:53.523Z",
+        "__v": 0
+    },
+    {
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                5.971862481127945, 80.69566361736567
+            ]
+        },
+        "_id": "631075e95585ed47f951e2fd",
+        "shopName": "Mihisaru",
+        "imageUrls": [],
+        "publicIds": [],
+        "shopCategories": [],
+        "contactNumber": "714455879",
+        "email": "mihisaru@gmail.com",
+        "address": "No.98, Rathmale road, Dikwella",
+        "delivery": "Available",
+        "city": "Dikwella",
+        "user": "631075765585ed47f951e2f0",
+        "shopReviews": [],
+        "shopRatings": [],
+        "rating": 0,
+        "raters": [],
+        "shopItems": [
+            "63119771d4175147ac1e01fb",
+            "631195c2d4175147ac1e01ce",
+            "631195fcd4175147ac1e01d7",
+            "6311964dd4175147ac1e01e0",
+            "6311969dd4175147ac1e01e9",
+            "63119720d4175147ac1e01f2"
+        ],
+        "ordersId": [],
+        "updatedDate": "2022-09-01T06:54:16.000Z",
+        "shopVisibility": "Active",
+        "profilePic": [
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662189566/goviMedia/SHops/Mihisaru/images_hvm466.jpg"
+              
+            }
+        ],
+        "shopPictures": [
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662189566/goviMedia/SHops/Mihisaru/images_1_oxglsm.jpg"
+                
+            },
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662189565/goviMedia/SHops/Mihisaru/download_iac7vg.jpg"
+             
+            },
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662189565/goviMedia/SHops/Mihisaru/download_1_adyz0t.jpg"
+             
+            }
+        ],
+        "proofDocs": [
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662189906/goviMedia/SHops/Certificates/main-img_ukliqw.jpg"
+                
+            }
+        ],
+        "createdAt": "2021-04-05T09:05:45.400Z",
+        "updatedAt": "2022-09-02T17:26:40.307Z",
+        "__v": 0,
+        "itemCount": 19
+    },
+    {
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                6.7229778464619505, 80.06590390015576
+            ]
+        },
+        "_id": "631077da5585ed47f951e311",
+        "shopName": "Mal pala thawana",
+        "imageUrls": [],
+        "publicIds": [],
+        "shopCategories": [],
+        "contactNumber": "773232568",
+        "email": "malpalathawana@gmail.com",
+        "address": "No.45, Seelarathna mawatha, Horana",
+        "delivery": "Available",
+        "city": "Horana",
+        "user": "631077705585ed47f951e307",
+        "shopReviews": [],
+        "shopRatings": [],
+        "rating": 0,
+        "raters": [],
+        "shopItems": [],
+        "ordersId": [],
+        "updatedDate": "2022-09-01T06:54:16.000Z",
+        "shopVisibility": "Active",
+        "profilePic": [
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662189567/goviMedia/SHops/Niro/images_y4wqud.jpg"
+              
+            }
+        ],
+        "shopPictures": [
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662189566/goviMedia/SHops/Niro/images_3_ksam05.jpg"
+                
+            },
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662189566/goviMedia/SHops/Niro/images_2_gjga9o.jpg"
+             
+            },
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662189566/goviMedia/SHops/Niro/images_1_slyzrs.jpg"
+             
+            }
+        ],
+        "proofDocs": [
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662189906/goviMedia/SHops/Certificates/main-img_ukliqw.jpg"
+                
+            }
+        ],
+        "createdAt": "2022-09-01T09:14:02.727Z",
+        "updatedAt": "2022-09-01T09:14:02.727Z",
+        "__v": 0
+    },
+    {
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                8.317043996766834, 80.40215733903683
+            ]
+        },
+        "_id": "631078435585ed47f951e325",
+        "shopName": "Araliya Agro",
+        "imageUrls": [],
+        "publicIds": [],
+        "shopCategories": [],
+        "contactNumber": "779871472",
+        "email": "araliyaagro@gmail.com",
+        "address": "No.5, Ananda mawatha, Anuradhapura",
+        "delivery": "Available",
+        "city": "Anuradhapura",
+        "user": "631077fe5585ed47f951e31b",
+        "shopReviews": [],
+        "shopRatings": [],
+        "rating": 0,
+        "raters": [],
+        "shopItems": [],
+        "ordersId": [],
+        "updatedDate": "2022-09-01T06:54:16.000Z",
+        "shopVisibility": "Active",
+        "profilePic": [
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662189567/goviMedia/SHops/Niro/images_y4wqud.jpg"
+              
+            }
+        ],
+        "shopPictures": [
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662189566/goviMedia/SHops/Niro/images_3_ksam05.jpg"
+                
+            },
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662189566/goviMedia/SHops/Niro/images_2_gjga9o.jpg"
+             
+            },
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662189566/goviMedia/SHops/Niro/images_1_slyzrs.jpg"
+             
+            }
+        ],
+        "proofDocs": [
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662189906/goviMedia/SHops/Certificates/main-img_ukliqw.jpg"
+                
+            }
+        ],
+        "createdAt": "2022-09-01T09:15:47.898Z",
+        "updatedAt": "2022-09-01T09:15:47.898Z",
+        "__v": 0
+    },
+    {
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                6.3146955029381635, 80.84349342052704
+            ]
+        },
+        "_id": "6310793b5585ed47f951e345",
+        "shopName": "Kethsaru",
+        "imageUrls": [],
+        "publicIds": [],
+        "shopCategories": [],
+        "contactNumber": "754125789",
+        "email": "kethsaru@gmail.com",
+        "address": "No.20, Hospital road, Embilipitiya",
+        "delivery": "Available",
+        "city": "Embilipitiya",
+        "user": "631078935585ed47f951e32f",
+        "shopReviews": [],
+        "shopRatings": [],
+        "rating": 0,
+        "raters": [],
+        "shopItems": [
+            "631197a9d4175147ac1e0204",
+            "6311990dd4175147ac1e0214"
+        ],
+        "ordersId": [],
+        "updatedDate": "2022-09-01T06:54:16.000Z",
+        "shopVisibility": "Active",
+        "profilePic": [
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662189565/goviMedia/SHops/Kethsaru/images_icqinm.jpg"
+              
+            }
+        ],
+        "shopPictures": [
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662189565/goviMedia/SHops/Kethsaru/images_3_elyfwt.jpg"
+                
+            },
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662189565/goviMedia/SHops/Kethsaru/download_elufei.jpg"
+             
+            },
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662189565/goviMedia/SHops/Kethsaru/download_2_xjs2oe.jpg"
+             
+            }
+        ],
+        "proofDocs": [
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662189906/goviMedia/SHops/Certificates/main-img_ukliqw.jpg"
+                
+            }
+        ],
+        "createdAt": "2022-09-01T09:19:55.535Z",
+        "updatedAt": "2022-09-01T09:19:55.535Z",
+        "__v": 0
+    },
+    {
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                7.0874531579595486, 79.89067196296922
+            ]
+        },
+        "_id": "631083e85585ed47f951e361",
+        "shopName": "Agro trading",
+        "imageUrls": [],
+        "publicIds": [],
+        "shopCategories": [],
+        "contactNumber": "763526984",
+        "email": "agrotrading@gmail.com",
+        "address": "“Isuru”, Wewala road, Ja ela",
+        "delivery": "Available",
+        "city": "Ja ela",
+        "user": "631081f75585ed47f951e357",
+        "shopReviews": [],
+        "shopRatings": [],
+        "rating": 0,
+        "raters": [],
+        "shopItems": [],
+        "ordersId": [],
+        "updatedDate": "2022-09-01T06:54:16.000Z",
+        "shopVisibility": "Pending",
+        "profilePic": [
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662189567/goviMedia/SHops/Niro/images_y4wqud.jpg"
+              
+            }
+        ],
+        "shopPictures": [
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662189566/goviMedia/SHops/Niro/images_3_ksam05.jpg"
+                
+            },
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662189566/goviMedia/SHops/Niro/images_2_gjga9o.jpg"
+             
+            },
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662189566/goviMedia/SHops/Niro/images_1_slyzrs.jpg"
+             
+            }
+        ],
+        "proofDocs": [
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662189906/goviMedia/SHops/Certificates/main-img_ukliqw.jpg"
+                
+            }
+        ],
+        "createdAt": "2022-09-01T10:05:28.649Z",
+        "updatedAt": "2022-09-01T10:05:28.649Z",
+        "__v": 0
+    },
+    {
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                7.481906950162809, 80.36122576912942
+            ]
+        },
+        "_id": "631084605585ed47f951e375",
+        "shopName": "Pohora Kade",
+        "imageUrls": [],
+        "publicIds": [],
+        "shopCategories": [],
+        "contactNumber": "774518456",
+        "email": "pohorakade@gmail.com",
+        "address": "No.11, Perahera mawatha, Kurunegala",
+        "delivery": "Available",
+        "city": "Kurunegala",
+        "user": "6310844c5585ed47f951e36b",
+        "shopReviews": [],
+        "shopRatings": [],
+        "rating": 0,
+        "raters": [],
+        "shopItems": [],
+        "ordersId": [],
+        "updatedDate": "2022-09-01T06:54:16.000Z",
+        "shopVisibility": "Pending",
+        "profilePic": [
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662189567/goviMedia/SHops/Niro/images_y4wqud.jpg"
+              
+            }
+        ],
+        "shopPictures": [
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662189566/goviMedia/SHops/Niro/images_3_ksam05.jpg"
+                
+            },
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662189566/goviMedia/SHops/Niro/images_2_gjga9o.jpg"
+             
+            },
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662189566/goviMedia/SHops/Niro/images_1_slyzrs.jpg"
+             
+            }
+        ],
+        "proofDocs": [
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662189906/goviMedia/SHops/Certificates/main-img_ukliqw.jpg"
+                
+            }
+        ],
+        "createdAt": "2022-09-01T10:07:28.167Z",
+        "updatedAt": "2022-09-01T10:07:28.167Z",
+        "__v": 0
+    },
+    {
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                6.03211197059955, 80.21734717023148
+            ]
+        },
+        "_id": "6310b3935585ed47f951e392",
+        "shopName": "Agro Sup",
+        "imageUrls": [],
+        "publicIds": [],
+        "shopCategories": [],
+        "contactNumber": "717845123",
+        "email": "agrosup@gmail.com",
+        "address": "No.32, Dharmaraja mawatha, Galle",
+        "delivery": "Available",
+        "city": "Galle",
+        "user": "6310b34c5585ed47f951e384",
+        "shopReviews": [],
+        "shopRatings": [],
+        "rating": 0,
+        "raters": [],
+        "shopItems": [],
+        "ordersId": [],
+        "updatedDate": "2022-09-01T06:54:16.000Z",
+        "shopVisibility": "Pending",
+        "profilePic": [
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662189567/goviMedia/SHops/Niro/images_y4wqud.jpg"
+              
+            }
+        ],
+        "shopPictures": [
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662189566/goviMedia/SHops/Niro/images_3_ksam05.jpg"
+                
+            },
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662189566/goviMedia/SHops/Niro/images_2_gjga9o.jpg"
+             
+            },
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662189566/goviMedia/SHops/Niro/images_1_slyzrs.jpg"
+             
+            }
+        ],
+        "proofDocs": [
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662189906/goviMedia/SHops/Certificates/main-img_ukliqw.jpg"
+                
+            }
+        ],
+        "createdAt": "2022-09-01T13:28:51.220Z",
+        "updatedAt": "2022-09-01T13:28:51.220Z",
+        "__v": 0
+    },
+    {
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                5.953357,
+                80.526543
+            ]
+        },
+        "_id": "6310b4125585ed47f951e3aa",
+        "shopName": "Hela bima",
+        "imageUrls": [],
+        "publicIds": [],
+        "shopCategories": [],
+        "contactNumber": "712233456",
+        "email": "helabima@gmail.com",
+        "address": "No.98, Sunanda Mawatha, Matara",
+        "delivery": "Available",
+        "city": "Matara",
+        "user": "6310b3d05585ed47f951e3a0",
+        "shopReviews": [],
+        "shopRatings": [],
+        "rating": 0,
+        "raters": [],
+        "shopItems": [
+            "6311949fd4175147ac1e01b2",
+            "63119508d4175147ac1e01bb",
+            "6311953fd4175147ac1e01c4"
+        ],
+        "ordersId": [],
+        "updatedDate": "2022-09-01T06:54:16.000Z",
+        "shopVisibility": "Active",
+        "profilePic": [
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662189565/goviMedia/SHops/Hela%20Bima/images_cjsjs1.jpg"
+              
+            }
+        ],
+        "shopPictures": [
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662189565/goviMedia/SHops/Hela%20Bima/images_2_mx7tbd.jpg"
+                
+            },
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662189564/goviMedia/SHops/Hela%20Bima/images_1_pusifk.jpg"
+             
+            },
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662189566/goviMedia/SHops/Niro/images_1_slyzrs.jpg"
+             
+            }
+        ],
+        "proofDocs": [
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662189906/goviMedia/SHops/Certificates/main-img_ukliqw.jpg"
+                
+            }
+        ],
+        "createdAt": "2022-09-01T13:30:58.957Z",
+        "updatedAt": "2022-09-02T05:31:43.588Z",
+        "__v": 0,
+        "itemCount": 3
+    }
+]

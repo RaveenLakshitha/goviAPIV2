@@ -1,0 +1,92 @@
+[
+        {
+            "createdDate": "2022-09-04T13:34:32.000Z",
+            "updatedDate": "2022-09-04T13:34:32.000Z",
+            "_id": "62f9df97e8d825e78af1deb5",
+            "architect": "6311099350e4f2e5a03158e6",
+            "numofAppointments": 1,
+            "createdAt": "2022-09-15T05:54:31.354Z",
+            "updatedAt": "2022-08-15T05:54:31.354Z",
+            "__v": 0
+        },
+        {
+            "createdDate": "2022-09-04T13:34:32.000Z",
+            "updatedDate": "2022-09-04T13:34:32.000Z",
+            "_id": "62f9dfc0e8d825e78af1debd",
+            "architect": "6311121a50e4f2e5a031590e",
+            "numofAppointments": 1,
+            "createdAt": "2022-07-11T05:55:12.756Z",
+            "updatedAt": "2022-08-15T05:55:12.756Z",
+            "__v": 0
+        },
+        {
+            "createdDate": "2022-09-04T13:34:32.000Z",
+            "updatedDate": "2022-09-04T13:34:32.000Z",
+            "_id": "62f9dff4e8d825e78af1dec6",
+            "architect": "6311099350e4f2e5a03158e6",
+            "numofAppointments": 1,
+            "createdAt": "2022-02-04T05:56:04.332Z",
+            "updatedAt": "2022-08-15T05:56:04.332Z",
+            "__v": 0
+        },
+        {
+            "_id": "630eedfc8b82bd0594d67d01",
+            "architect": "6311099350e4f2e5a03158e6",
+            "numofAppointments": 1,
+            "createdDate": "2022-08-31T05:12:00.000Z",
+            "updatedDate": "2022-08-31T05:12:00.000Z",
+            "createdAt": "2022-05-12T05:13:32.180Z",
+            "updatedAt": "2022-08-31T05:13:32.180Z",
+            "__v": 0
+        },
+        {
+            "_id": "630ef08dce55c32602455249",
+            "architect": "6311121a50e4f2e5a031590e",
+            "numofAppointments": 1,
+            "createdDate": "2022-08-31T05:24:05.000Z",
+            "updatedDate": "2022-08-31T05:24:05.000Z",
+            "createdAt": "2022-08-31T05:24:29.874Z",
+            "updatedAt": "2022-08-31T05:24:29.874Z",
+            "__v": 0
+        },
+        {
+            "_id": "630fa5b411b97d53c36669cb",
+            "architect": "6311099350e4f2e5a03158e6",
+            "numofAppointments": 1,
+            "createdDate": "2022-08-31T17:50:47.000Z",
+            "updatedDate": "2022-08-31T17:50:47.000Z",
+            "createdAt": "2022-08-27T18:17:24.455Z",
+            "updatedAt": "2022-08-31T18:17:24.455Z",
+            "__v": 0
+        },
+        {
+            "_id": "630fa61fbd1d7ea7a934cdc3",
+            "architect": "6311099350e4f2e5a03158e6",
+            "numofAppointments": 1,
+            "createdDate": "2022-08-31T18:19:09.000Z",
+            "updatedDate": "2022-08-31T18:19:09.000Z",
+            "createdAt": "2022-05-16T18:19:11.677Z",
+            "updatedAt": "2022-08-31T18:19:11.677Z",
+            "__v": 0
+        },
+        {
+            "_id": "630fa6bc1e3bd224142c5447",
+            "architect": "6311099350e4f2e5a03158e6",
+            "numofAppointments": 1,
+            "createdDate": "2022-08-31T18:21:44.000Z",
+            "updatedDate": "2022-08-31T18:21:44.000Z",
+            "createdAt": "2021-12-16T18:21:48.435Z",
+            "updatedAt": "2022-08-31T18:21:48.435Z",
+            "__v": 0
+        },
+        {
+            "_id": "630fabb50505b6d7f0c6d415",
+            "architect": "6311099350e4f2e5a03158e6",
+            "numofAppointments": 1,
+            "createdDate": "2021-02-24T18:41:24.000Z",
+            "updatedDate": "2022-08-31T18:41:24.000Z",
+            "createdAt": "2022-08-31T18:43:01.670Z",
+            "updatedAt": "2022-08-31T18:43:01.670Z",
+            "__v": 0
+        }
+    ]

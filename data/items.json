@@ -1,0 +1,434 @@
+[
+    {
+        "createdDate": "2022-09-02T05:48:59.000Z",
+        "updatedDate": "2022-09-02T05:48:59.000Z",
+        "_id": "62fb37b4970340d64c89b4e2",
+        "description": "Gauri products",
+        "productName": "Banana | කෙසෙල් කෝලිකුට්ටු",
+        "price": 300,
+        "quantity": 12,
+        "rating": 0,
+        "thumbnail": [
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662176566/goviMedia/Items/Banana/images_cd9c4u.jpg"
+            }
+        ],
+        "productPictures": [
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662176566/goviMedia/Items/Banana/images_1_hykabr.jpg"
+            },
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662176566/goviMedia/Items/Banana/download_2_hptvna.jpg"
+            }
+        ],
+        "itemReviews": [],
+        "categoryId": "62f523fd7a9c7fb9b15f8898",
+        "categoryName": "Banana",
+        "parentCategoryName": "Fruits",
+        "parentCategoryId": "62f522357a9c7fb9b15f887e",
+        "shopId": "631075e95585ed47f951e2fd",
+        "userId": "62f4883b73d4e2eb2bb867df",
+        "avilability": "Available",
+        "itemRatings": [],
+        "itemVisibility": true,
+        "createdAt": "2022-08-16T06:22:44.338Z",
+        "updatedAt": "2022-08-31T17:31:54.483Z",
+        "__v": 0
+    },
+    {
+        "_id": "6311949fd4175147ac1e01b2",
+        "productName": "Tomato | තක්කාලි",
+        "price": 85,
+        "description": "Gauri products",
+        "quantity": 12,
+        "rating": 0,
+        "itemReviews": [],
+        "categoryId": "63117ce3af2823bca520000e",
+        "categoryName": "Tomato",
+        "parentCategoryName": "Vegetables",
+        "parentCategoryId": "63116f5896b2267442788498",
+        "shopId": "6310b4125585ed47f951e3aa",
+        "userId": "6310b3d05585ed47f951e3a0",
+        "avilability": "Available",
+        "itemRatings": [],
+        "itemVisibility": true,
+        "createdDate": "2022-09-02T04:37:59.000Z",
+        "updatedDate": "2022-09-02T04:37:59.000Z",
+        "thumbnail": [
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662176581/goviMedia/Items/Tomato/growing-tomato-plants_tnvi8d.jpg"
+            }
+        ],
+        "productPictures": [
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662176581/goviMedia/Items/Tomato/images_kibcw6.jpg"
+            },
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662176580/goviMedia/Items/Tomato/images_1_tc8dct.jpg"
+            }
+        ],
+        "createdAt": "2022-09-02T05:29:03.312Z",
+        "updatedAt": "2022-09-02T05:29:03.312Z",
+        "__v": 0
+    },
+    {
+        "_id": "63119508d4175147ac1e01bb",
+        "productName": "Insulin Plant | චීන නිවිති",
+        "price": 500,
+        "description": "A good product",
+        "quantity": 15,
+        "rating": 0,
+        "itemReviews": [],
+        "categoryId": "63117c09af2823bca5200008",
+        "categoryName": "Insulin Plant",
+        "parentCategoryName": "Medical Plants",
+        "parentCategoryId": "6311703496b22674427884b8",
+        "shopId": "6310b4125585ed47f951e3aa",
+        "userId": "6310b3d05585ed47f951e3a0",
+        "avilability": "Available",
+        "itemRatings": [],
+        "itemVisibility": true,
+        "createdDate": "2022-09-02T04:37:59.000Z",
+        "updatedDate": "2022-09-02T04:37:59.000Z",
+        "thumbnail": [
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662176578/goviMedia/Items/Insulin%20Plant/images_3_dhc0ol.jpg"
+            }
+        ],
+        "productPictures": [
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662176578/goviMedia/Items/Insulin%20Plant/download_tjqnyz.jpg"
+            },
+            {
+                "img": "https://govibucket01.s3.ap-southeast-1.amazonaws.com/Items/Carrot/images.jpg"
+            }
+        ],
+        "createdAt": "2022-09-02T05:30:48.573Z",
+        "updatedAt": "2022-09-02T05:30:48.573Z",
+        "__v": 0
+    },
+    {
+        "_id": "6311953fd4175147ac1e01c4",
+        "productName": "Bitter Gourd | කරවිල",
+        "price": 70,
+        "description": "A good product",
+        "quantity": 10,
+        "rating": 0,
+        "itemReviews": [],
+        "categoryId": "63117ceaaf2823bca5200013",
+        "categoryName": "Bitter Gourd",
+        "parentCategoryName": "Vegetables",
+        "parentCategoryId": "63116f5896b2267442788498",
+        "shopId": "6310b4125585ed47f951e3aa",
+        "userId": "6310b3d05585ed47f951e3a0",
+        "avilability": "Available",
+        "itemRatings": [],
+        "itemVisibility": true,
+        "createdDate": "2022-09-02T04:37:59.000Z",
+        "updatedDate": "2022-09-02T04:37:59.000Z",
+        "thumbnail": [
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662176573/goviMedia/Items/Bitter%20Gourd/09554cf8280b749f01ef1f35c8a5e12b_unljlh.jpg"
+            }
+        ],
+        "productPictures": [
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662176567/goviMedia/Items/Bitter%20Gourd/Bitter-Melon-Bitter-Gourd-Information_m4l6cx.jpg"
+            },
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662176567/goviMedia/Items/Bitter%20Gourd/bitter-gourd-seed-500x500_by0msh.jpg"
+            }
+        ],
+        "createdAt": "2022-09-02T05:31:43.389Z",
+        "updatedAt": "2022-09-02T05:31:43.389Z",
+        "__v": 0
+    },
+    {
+        "_id": "63119771d4175147ac1e01fb",
+        "productName": "Carrot | කැරට්",
+        "price": 80,
+        "description": "Landmark products",
+        "quantity": 28,
+        "rating": 0,
+        "itemReviews": [],
+        "categoryId": "63117cf3af2823bca520001d",
+        "categoryName": "Carrot",
+        "parentCategoryName": "Vegetables",
+        "parentCategoryId": "63116f5896b2267442788498",
+        "shopId": "631075e95585ed47f951e2fd",
+        "userId": "631075765585ed47f951e2f0",
+        "avilability": "Available",
+        "itemRatings": [],
+        "itemVisibility": true,
+        "createdDate": "2022-09-02T04:37:59.000Z",
+        "updatedDate": "2022-09-02T04:37:59.000Z",
+        "thumbnail": [
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662176574/goviMedia/Items/Carrot/1afd0223fc3ab49ffcc6efbc681cdd78_o7ds1y.png"
+            }
+        ],
+        "productPictures": [
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662176570/goviMedia/Items/Carrot/images_t0fw6t.jpg"
+            },
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662176569/goviMedia/Items/Carrot/images_2_eo3li0.jpg"
+            }
+        ],
+        "createdAt": "2022-09-02T05:41:05.372Z",
+        "updatedAt": "2022-09-02T05:41:05.372Z",
+        "__v": 0
+    },
+    {
+        "_id": "631195c2d4175147ac1e01ce",
+        "productName": "Banana | කෙසෙල් කෝලිකුට්ටු",
+        "price": 300,
+        "description": "Now available",
+        "quantity": 30,
+        "rating": 0,
+        "itemReviews": [],
+        "categoryId": "6311725a96b22674427884e7",
+        "categoryName": "Banana",
+        "parentCategoryName": "Fruits",
+        "parentCategoryId": "63116f6796b22674427884a0",
+        "shopId": "631075e95585ed47f951e2fd",
+        "userId": "631075765585ed47f951e2f0",
+        "avilability": "Available",
+        "itemRatings": [],
+        "itemVisibility": true,
+        "createdDate": "2022-09-02T04:37:59.000Z",
+        "updatedDate": "2022-09-02T04:37:59.000Z",
+        "thumbnail": [
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662176566/goviMedia/Items/Banana/images_cd9c4u.jpg"
+            }
+        ],
+        "productPictures": [
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662176566/goviMedia/Items/Banana/images_1_hykabr.jpg"
+            },
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662176566/goviMedia/Items/Banana/download_2_hptvna.jpg"
+            }
+        ],
+        "createdAt": "2022-09-02T05:33:54.567Z",
+        "updatedAt": "2022-09-02T05:33:54.567Z",
+        "__v": 0
+    },
+    {
+        "_id": "631195fcd4175147ac1e01d7",
+        "productName": "Apple Red Guava",
+        "price": 300,
+        "description": "Fruitfull products.",
+        "quantity": 24,
+        "rating": 0,
+        "itemReviews": [],
+        "categoryId": "6311729d96b22674427884f2",
+        "categoryName": "Guava",
+        "parentCategoryName": "Fruits",
+        "parentCategoryId": "63116f6796b22674427884a0",
+        "shopId": "631075e95585ed47f951e2fd",
+        "userId": "631075765585ed47f951e2f0",
+        "avilability": "Available",
+        "itemRatings": [],
+        "itemVisibility": true,
+        "createdDate": "2022-09-02T04:37:59.000Z",
+        "updatedDate": "2022-09-02T04:37:59.000Z",
+        "thumbnail": [
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662200466/goviMedia/Items/Apple%20Red%20Guava/images_izyeq6.jpg"
+            }
+        ],
+        "productPictures": [
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662200466/goviMedia/Items/Apple%20Red%20Guava/images_1_noqk0z.jpg"
+            },
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662200466/goviMedia/Items/Apple%20Red%20Guava/images_2_pik569.jpg"
+            }
+        ],
+        "createdAt": "2022-09-02T05:34:52.648Z",
+        "updatedAt": "2022-09-02T05:34:52.648Z",
+        "__v": 0
+    },
+    {
+        "_id": "6311964dd4175147ac1e01e0",
+        "productName": "Kilo Guava | කිලෝ පේර",
+        "price": 350,
+        "description": "Fruitfull products.",
+        "quantity": 28,
+        "rating": 0,
+        "itemReviews": [],
+        "categoryId": "6311729d96b22674427884f2",
+        "categoryName": "Guava",
+        "parentCategoryName": "Fruits",
+        "parentCategoryId": "63116f6796b22674427884a0",
+        "shopId": "631075e95585ed47f951e2fd",
+        "userId": "631075765585ed47f951e2f0",
+        "avilability": "Available",
+        "itemRatings": [],
+        "itemVisibility": true,
+        "createdDate": "2022-09-02T04:37:59.000Z",
+        "updatedDate": "2022-09-02T04:37:59.000Z",
+        "thumbnail": [
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662176577/goviMedia/Items/Guava/download_awmjqb.jpg"
+            }
+        ],
+        "productPictures": [
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662176577/goviMedia/Items/Guava/download_1_abg2fm.jpg"
+            },
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662176577/goviMedia/Items/Guava/976a8dfa439ed095ef7ebe7d7d3831eb_spocee.jpg"
+            }
+        ],
+        "createdAt": "2022-09-02T05:36:13.995Z",
+        "updatedAt": "2022-09-02T05:36:13.995Z",
+        "__v": 0
+    },
+    {
+        "_id": "6311969dd4175147ac1e01e9",
+        "productName": "Ambaralla",
+        "price": 250,
+        "description": "Ambarella plants in Sri Lanka",
+        "quantity": 14,
+        "rating": 0,
+        "itemReviews": [],
+        "categoryId": "631172cd96b22674427884fc",
+        "categoryName": "Ambaralla",
+        "parentCategoryName": "Fruits",
+        "parentCategoryId": "63116f6796b22674427884a0",
+        "shopId": "631075e95585ed47f951e2fd",
+        "userId": "631075765585ed47f951e2f0",
+        "avilability": "Available",
+        "itemRatings": [],
+        "itemVisibility": true,
+        "createdDate": "2022-09-02T04:37:59.000Z",
+        "updatedDate": "2022-09-02T04:37:59.000Z",
+        "thumbnail": [
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662176566/goviMedia/Items/Ambarella/images_yrw6m1.jpg"
+            }
+        ],
+        "productPictures": [
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662176565/goviMedia/Items/Ambarella/download_owibkz.jpg"
+            },
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662176565/goviMedia/Items/Ambarella/download_1_ltxhit.jpg"
+            }
+        ],
+        "createdAt": "2022-09-02T05:37:33.431Z",
+        "updatedAt": "2022-09-02T05:37:33.431Z",
+        "__v": 0
+    },
+    {
+        "_id": "63119720d4175147ac1e01f2",
+        "productName": "Kakiri-Seeds",
+        "price": 70,
+        "description": "Quality Products",
+        "quantity": 20,
+        "rating": 0,
+        "itemReviews": [],
+        "categoryId": "63117cefaf2823bca5200018",
+        "categoryName": "Kakiri",
+        "parentCategoryName": "Vegetables",
+        "parentCategoryId": "63116f5896b2267442788498",
+        "shopId": "631075e95585ed47f951e2fd",
+        "userId": "631075765585ed47f951e2f0",
+        "avilability": "Available",
+        "itemRatings": [],
+        "itemVisibility": true,
+        "createdDate": "2022-09-02T04:37:59.000Z",
+        "updatedDate": "2022-09-02T04:37:59.000Z",
+        "thumbnail": [
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662176578/goviMedia/Items/Kakiri/webpc-passthru_pq55fb.webp"
+            }
+        ],
+        "productPictures": [
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662176578/goviMedia/Items/Kakiri/22-1_my6kns.jpg"
+            },
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662176578/goviMedia/Items/Kakiri/images_ihjnp9.jpg"
+            }
+        ],
+        "createdAt": "2022-09-02T05:39:44.453Z",
+        "updatedAt": "2022-09-02T05:39:44.453Z",
+        "__v": 0
+    },
+    {
+        "_id": "631197a9d4175147ac1e0204",
+        "productName": "Hathawariya",
+        "price": 120,
+        "description": "Medicine to diabetes",
+        "quantity": 120,
+        "rating": 0,
+        "itemReviews": [],
+        "categoryId": "6311715d96b22674427884d1",
+        "categoryName": "Hathawariya",
+        "parentCategoryName": "Medical Plants",
+        "parentCategoryId": "6311703496b22674427884b8",
+        "shopId": "6310793b5585ed47f951e345",
+        "userId": "631078935585ed47f951e32f",
+        "avilability": "Available",
+        "itemRatings": [],
+        "itemVisibility": true,
+        "createdDate": "2022-09-02T04:37:59.000Z",
+        "updatedDate": "2022-09-02T04:37:59.000Z",
+        "thumbnail": [
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662176578/goviMedia/Items/Hathawariya/Asparagus-racemosus_jr15bi.jpg"
+            }
+        ],
+        "productPictures": [
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662176577/goviMedia/Items/Hathawariya/Ophiopogon-intermedias-300x300_gdgr65.jpg"
+            },
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662176577/goviMedia/Items/Hathawariya/download_2_pmzaon.jpg"
+            }
+        ],
+        "createdAt": "2022-09-02T05:42:01.121Z",
+        "updatedAt": "2022-09-02T05:42:01.121Z",
+        "__v": 0
+    },
+    {
+        "_id": "6311990dd4175147ac1e0214",
+        "productName": "Clove",
+        "price": 425,
+        "description": "The Best Products",
+        "quantity": 17,
+        "rating": 0,
+        "itemReviews": [],
+        "categoryId": "63119894d4175147ac1e020e",
+        "categoryName": "Clove",
+        "parentCategoryName": "Spice plants",
+        "parentCategoryId": "631190a0d4175147ac1e01a8",
+        "shopId": "6310793b5585ed47f951e345",
+        "userId": "631078935585ed47f951e32f",
+        "avilability": "Available",
+        "itemRatings": [],
+        "itemVisibility": true,
+        "createdDate": "2022-09-02T04:37:59.000Z",
+        "updatedDate": "2022-09-02T04:37:59.000Z",
+        "thumbnail": [
+            {
+                "img": "https://govibucket01.s3.ap-southeast-1.amazonaws.com/Items/Carrot/images+(3).jpghttps://res.cloudinary.com/govipiyasa/image/upload/v1662176573/goviMedia/Items/CLove/F_-Clove-Seeds--1609388671_ianz71.jpg"
+            }
+        ],
+        "productPictures": [
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662176573/goviMedia/Items/CLove/images_tphtt5.jpg"
+            },
+            {
+                "img": "https://res.cloudinary.com/govipiyasa/image/upload/v1662176572/goviMedia/Items/CLove/cloves-seeds-500x500_s8xblq.jpg"
+            }
+        ],
+        "createdAt": "2022-09-02T05:47:57.688Z",
+        "updatedAt": "2022-09-02T05:47:57.688Z",
+        "__v": 0
+    }    
+]

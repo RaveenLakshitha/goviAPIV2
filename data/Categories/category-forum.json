@@ -1,0 +1,105 @@
+[
+    {
+        "_id": "62f5243aaa13e58397b9c9d6",
+        "categoryName": "Farming",
+        "slug": "farming",
+        "visibility": true,
+        "categoryType": "Main",
+        "SubCategories": [
+            "62f52511aa13e58397b9c9fb",
+            "62f52519aa13e58397b9ca00"
+        ],
+        "Questions": [
+            "6316243f1dc054bfda21c2c3"
+        ],
+        "createdDate": "2022-09-05T16:30:05.000Z",
+        "updatedDate": "2022-09-05T16:30:05.000Z",
+        "updatedAt": "2022-08-11T15:46:02.863Z",
+        "createdAt": "2022-08-11T15:46:02.863Z",
+        "__v": 0
+    },
+    {
+        "_id": "62f52448aa13e58397b9c9de",
+        "categoryName": "Flowers",
+        "slug": "flowers",
+        "visibility": true,
+        "categoryType": "Main",
+        "SubCategories": [],
+        "Questions": [
+            "631624931dc054bfda21c2cd"
+        ],
+        "createdDate": "2022-09-05T16:30:05.000Z",
+        "updatedDate": "2022-09-05T16:30:05.000Z",
+        "updatedAt": "2022-08-11T15:46:16.627Z",
+        "createdAt": "2022-08-11T15:46:16.627Z",
+        "__v": 0
+    },
+    {
+        "_id": "62f52441aa13e58397b9c9da",
+        "categoryName": "Vegetables",
+        "slug": "vegetables",
+        "visibility": true,
+        "categoryType": "Main",
+        "SubCategories": [
+            "62f524e6aa13e58397b9c9f1",
+            "62f524eaaa13e58397b9c9f6"
+        ],
+        "Questions": [
+            "631624661dc054bfda21c2c8"
+        ],
+        "createdDate": "2022-09-05T16:30:05.000Z",
+        "updatedDate": "2022-09-05T16:30:05.000Z",
+        "updatedAt": "2022-08-11T15:46:09.345Z",
+        "createdAt": "2022-08-11T15:46:09.345Z",
+        "__v": 0
+    },
+    {
+        "_id": "62f524e6aa13e58397b9c9f1",
+        "categoryName": "Fruits",
+        "slug": "fruits",
+        "parentId": "62f52441aa13e58397b9c9da",
+        "visibility": true,
+        "categoryType": "Sub",
+        "SubCategories": [],
+        "Questions": [
+            "631624b41dc054bfda21c2d2"
+        ],
+        "createdDate": "2022-09-05T16:30:05.000Z",
+        "updatedDate": "2022-09-05T16:30:05.000Z",
+        "updatedAt": "2022-08-11T15:48:54.835Z",
+        "createdAt": "2022-08-11T15:48:54.835Z",
+        "__v": 0
+    },
+    {
+        "_id": "62f524eaaa13e58397b9c9f6",
+        "categoryName": "Rice",
+        "slug": "rice",
+        "parentId": "62f52441aa13e58397b9c9da",
+        "visibility": true,
+        "categoryType": "Sub",
+        "SubCategories": [],
+        "Questions": [
+            "631624da1dc054bfda21c2d7"
+        ],
+        "createdDate": "2022-09-05T16:30:05.000Z",
+        "updatedDate": "2022-09-05T16:30:05.000Z",
+        "updatedAt": "2022-08-11T15:48:58.447Z",
+        "createdAt": "2022-08-11T15:48:58.447Z",
+        "__v": 0
+    },
+    {
+        "_id": "62f52511aa13e58397b9c9fb",
+        "categoryName": "Onion",
+        "slug": "onion",
+        "parentId": "62f5243aaa13e58397b9c9d6",
+        "visibility": true,
+        "categoryType": "Sub",
+        "SubCategories": [],
+        "Questions": [],
+        "createdDate": "2022-09-05T16:30:05.000Z",
+        "updatedDate": "2022-09-05T16:30:05.000Z",
+        "updatedAt": "2022-08-11T15:49:37.099Z",
+        "createdAt": "2022-08-11T15:49:37.099Z",
+        "__v": 0
+    }
+]

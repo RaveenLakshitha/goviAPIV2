@@ -1,0 +1,294 @@
+[
+    {
+        "_id": "63142d30e78c9881dd18a693",
+        "categoryName": "පළතුරු",
+        "image": "https://govibucket01.s3.amazonaws.com/3PSCe9Mch-WhatsApp%20Image%202022-07-19%20at%2012.39.41%20AM.jpeg",
+        "visibility": true,
+        "categoryType": "Main",
+        "SubCategories": [
+            "63142e3198bc8ec1e21c978e",
+            "63142e3e98bc8ec1e21c9796",
+            "63142f69d92bc90e7ebc127c",
+            "6314303dd92bc90e7ebc1290"
+        ],
+        "Information": [],
+        "createdDate": "2022-09-04T04:42:21.000Z",
+        "updatedDate": "2022-09-04T04:42:21.000Z",
+        "createdAt": "2022-09-04T04:44:32.858Z",
+        "updatedAt": "2022-09-04T04:57:33.258Z",
+        "slug": "",
+        "__v": 0
+    },
+    {
+        "_id": "63142d46e78c9881dd18a697",
+        "categoryName": "එළවළු",
+        "visibility": true,
+        "categoryType": "Main",
+        "SubCategories": [
+            "63142e7298bc8ec1e21c97a0",
+            "63142e7d98bc8ec1e21c97a8",
+            "63142fa7d92bc90e7ebc1286"
+        ],
+        "Information": [],
+        "createdDate": "2022-09-04T04:42:21.000Z",
+        "updatedDate": "2022-09-04T04:42:21.000Z",
+        "createdAt": "2022-09-04T04:44:54.624Z",
+        "updatedAt": "2022-09-04T04:55:03.387Z",
+        "slug": "",
+        "__v": 0
+    },
+    {
+        "_id": "63142d65e78c9881dd18a69b",
+        "categoryName": "පොහොර",
+        "visibility": true,
+        "categoryType": "Main",
+        "SubCategories": [],
+        "Information": [],
+        "createdDate": "2022-09-04T04:42:21.000Z",
+        "updatedDate": "2022-09-04T04:42:21.000Z",
+        "createdAt": "2022-09-04T04:45:25.006Z",
+        "updatedAt": "2022-09-04T04:45:25.006Z",
+        "slug": "",
+        "__v": 0
+    },
+    {
+        "_id": "63142d9ee78c9881dd18a69f",
+        "categoryName": "මල්",
+        "visibility": true,
+        "categoryType": "Main",
+        "SubCategories": [
+            "63142ee698bc8ec1e21c97b2"
+        ],
+        "Information": [],
+        "createdDate": "2022-09-04T04:42:21.000Z",
+        "updatedDate": "2022-09-04T04:42:21.000Z",
+        "createdAt": "2022-09-04T04:46:22.622Z",
+        "updatedAt": "2022-09-04T04:51:51.095Z",
+        "slug": "",
+        "__v": 0
+    },
+    {
+        "_id": "63142e3198bc8ec1e21c978e",
+        "categoryName": "අඹ",
+        "parentId": "63142d30e78c9881dd18a693",
+        "visibility": true,
+        "categoryType": "Sub",
+        "SubCategories": [],
+        "Information": [
+            {
+                "_id": "63142e3198bc8ec1e21c9791",
+                "Title": "අඹ",
+                "Articles": [],
+                "categoryId": "63142e3198bc8ec1e21c978e",
+                "infoVisibility": "Active",
+                "createdDate": "2022-09-04T04:48:16.000Z",
+                "updatedDate": "2022-09-04T04:48:16.000Z",
+                "createdAt": "2022-09-04T04:48:49.601Z",
+                "updatedAt": "2022-09-04T04:48:49.601Z",
+                "__v": 0
+            }
+        ],
+        "createdDate": "2022-09-04T04:48:16.000Z",
+        "updatedDate": "2022-09-04T04:48:16.000Z",
+        "createdAt": "2022-09-04T04:48:49.295Z",
+        "updatedAt": "2022-09-04T04:48:49.760Z",
+        "slug": "",
+        "__v": 0
+    },
+    {
+        "_id": "63142e3e98bc8ec1e21c9796",
+        "categoryName": "කෙසෙල්",
+        "parentId": "63142d30e78c9881dd18a693",
+        "visibility": true,
+        "categoryType": "Sub",
+        "SubCategories": [],
+        "Information": [
+            {
+                "_id": "63142e3e98bc8ec1e21c9799",
+                "Title": "කෙසෙල්",
+                "Articles": [],
+                "categoryId": "63142e3e98bc8ec1e21c9796",
+                "infoVisibility": "Active",
+                "createdDate": "2022-09-04T04:48:16.000Z",
+                "updatedDate": "2022-09-04T04:48:16.000Z",
+                "createdAt": "2022-09-04T04:49:02.622Z",
+                "updatedAt": "2022-09-04T04:49:02.622Z",
+                "__v": 0
+            }
+        ],
+        "createdDate": "2022-09-04T04:48:16.000Z",
+        "updatedDate": "2022-09-04T04:48:16.000Z",
+        "createdAt": "2022-09-04T04:49:02.441Z",
+        "updatedAt": "2022-09-04T04:49:02.708Z",
+        "slug": "",
+        "__v": 0
+    },
+    {
+        "_id": "63142e7298bc8ec1e21c97a0",
+        "categoryName": "ලොකු ලූනු",
+        "parentId": "63142d46e78c9881dd18a697",
+        "visibility": true,
+        "categoryType": "Sub",
+        "SubCategories": [],
+        "Information": [
+            {
+                "_id": "63142e7298bc8ec1e21c97a3",
+                "Title": "ලොකු ලූනු",
+                "Articles": [],
+                "categoryId": "63142e7298bc8ec1e21c97a0",
+                "infoVisibility": "Active",
+                "createdDate": "2022-09-04T04:48:16.000Z",
+                "updatedDate": "2022-09-04T04:48:16.000Z",
+                "createdAt": "2022-09-04T04:49:54.329Z",
+                "updatedAt": "2022-09-04T04:49:54.329Z",
+                "__v": 0
+            }
+        ],
+        "createdDate": "2022-09-04T04:48:16.000Z",
+        "updatedDate": "2022-09-04T04:48:16.000Z",
+        "createdAt": "2022-09-04T04:49:54.024Z",
+        "updatedAt": "2022-09-04T04:49:54.456Z",
+        "slug": "",
+        "__v": 0
+    },
+    {
+        "_id": "63142e7d98bc8ec1e21c97a8",
+        "categoryName": "ගෝවා",
+        "parentId": "63142d46e78c9881dd18a697",
+        "visibility": true,
+        "categoryType": "Sub",
+        "SubCategories": [],
+        "Information": [
+            {
+                "_id": "63142e7d98bc8ec1e21c97ab",
+                "Title": "ගෝවා",
+                "Articles": [],
+                "categoryId": "63142e7d98bc8ec1e21c97a8",
+                "infoVisibility": "Active",
+                "createdDate": "2022-09-04T04:48:16.000Z",
+                "updatedDate": "2022-09-04T04:48:16.000Z",
+                "createdAt": "2022-09-04T04:50:05.382Z",
+                "updatedAt": "2022-09-04T04:50:05.382Z",
+                "__v": 0
+            }
+        ],
+        "createdDate": "2022-09-04T04:48:16.000Z",
+        "updatedDate": "2022-09-04T04:48:16.000Z",
+        "createdAt": "2022-09-04T04:50:05.083Z",
+        "updatedAt": "2022-09-04T04:50:05.582Z",
+        "slug": "",
+        "__v": 0
+    },
+    {
+        "_id": "63142ee698bc8ec1e21c97b2",
+        "categoryName": "ඇන්තූරියම්",
+        "parentId": "63142d9ee78c9881dd18a69f",
+        "visibility": true,
+        "categoryType": "Sub",
+        "SubCategories": [],
+        "Information": [
+            {
+                "_id": "63142ee798bc8ec1e21c97b5",
+                "Title": "ඇන්තූරියම්",
+                "Articles": [],
+                "categoryId": "63142ee698bc8ec1e21c97b2",
+                "infoVisibility": "Active",
+                "createdDate": "2022-09-04T04:48:16.000Z",
+                "updatedDate": "2022-09-04T04:48:16.000Z",
+                "createdAt": "2022-09-04T04:51:51.368Z",
+                "updatedAt": "2022-09-04T04:51:51.368Z",
+                "__v": 0
+            }
+        ],
+        "createdDate": "2022-09-04T04:48:16.000Z",
+        "updatedDate": "2022-09-04T04:48:16.000Z",
+        "createdAt": "2022-09-04T04:51:50.955Z",
+        "updatedAt": "2022-09-04T04:51:51.487Z",
+        "slug": "",
+        "__v": 0
+    },
+    {
+        "_id": "63142f69d92bc90e7ebc127c",
+        "categoryName": "පැණි කොමඩු",
+        "parentId": "63142d30e78c9881dd18a693",
+        "visibility": true,
+        "categoryType": "Sub",
+        "SubCategories": [],
+        "Information": [
+            {
+                "_id": "63142f6ad92bc90e7ebc127f",
+                "Title": "පැණි කොමඩු",
+                "Articles": [],
+                "categoryId": "63142f69d92bc90e7ebc127c",
+                "infoVisibility": "Active",
+                "createdDate": "2022-09-04T04:53:42.000Z",
+                "updatedDate": "2022-09-04T04:53:42.000Z",
+                "createdAt": "2022-09-04T04:54:02.049Z",
+                "updatedAt": "2022-09-04T04:54:02.049Z",
+                "__v": 0
+            }
+        ],
+        "createdDate": "2022-09-04T04:53:42.000Z",
+        "updatedDate": "2022-09-04T04:53:42.000Z",
+        "createdAt": "2022-09-04T04:54:01.750Z",
+        "updatedAt": "2022-09-04T04:54:02.173Z",
+        "slug": "",
+        "__v": 0
+    },
+    {
+        "_id": "63142fa7d92bc90e7ebc1286",
+        "categoryName": "කැරට්",
+        "parentId": "63142d46e78c9881dd18a697",
+        "visibility": true,
+        "categoryType": "Sub",
+        "SubCategories": [],
+        "Information": [
+            {
+                "_id": "63142fa7d92bc90e7ebc1289",
+                "Title": "කැරට්",
+                "Articles": [],
+                "categoryId": "63142fa7d92bc90e7ebc1286",
+                "infoVisibility": "Active",
+                "createdDate": "2022-09-04T04:53:42.000Z",
+                "updatedDate": "2022-09-04T04:53:42.000Z",
+                "createdAt": "2022-09-04T04:55:03.492Z",
+                "updatedAt": "2022-09-04T04:55:03.492Z",
+                "__v": 0
+            }
+        ],
+        "createdDate": "2022-09-04T04:53:42.000Z",
+        "updatedDate": "2022-09-04T04:53:42.000Z",
+        "createdAt": "2022-09-04T04:55:03.280Z",
+        "updatedAt": "2022-09-04T04:55:03.597Z",
+        "slug": "",
+        "__v": 0
+    },
+    {
+        "_id": "6314303dd92bc90e7ebc1290",
+        "categoryName": "අන්නාසි",
+        "parentId": "63142d30e78c9881dd18a693",
+        "visibility": true,
+        "categoryType": "Sub",
+        "SubCategories": [],
+        "Information": [
+            {
+                "_id": "6314303dd92bc90e7ebc1293",
+                "Title": "අන්නාසි",
+                "Articles": [],
+                "categoryId": "6314303dd92bc90e7ebc1290",
+                "infoVisibility": "Active",
+                "createdDate": "2022-09-04T04:53:42.000Z",
+                "updatedDate": "2022-09-04T04:53:42.000Z",
+                "createdAt": "2022-09-04T04:57:33.452Z",
+                "updatedAt": "2022-09-04T04:57:33.452Z",
+                "__v": 0
+            }
+        ],
+        "createdDate": "2022-09-04T04:53:42.000Z",
+        "updatedDate": "2022-09-04T04:53:42.000Z",
+        "createdAt": "2022-09-04T04:57:33.113Z",
+        "updatedAt": "2022-09-04T04:57:33.591Z",
+        "slug": "",
+        "__v": 0
+    }
+]
